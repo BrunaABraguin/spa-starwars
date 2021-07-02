@@ -45,4 +45,32 @@ h4 {
   width: 80%;
   margin: 0 auto;
 }
+
+.error-default {
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 100vh;
+}
+
+.error-default h1,
+.error-default h2,
+.error-default h3,
+.error-default h4,
+.error-default h5,
+.error-default p {
+  text-transform: uppercase;
+}
+
+.error-default img {
+  height: 190px;
+  width: auto;
+  transition: 0.3s;
+}
+
+.error-default img:hover {
+  transform: scale(1.2);
+}
 /*# sourceMappingURL=main.css.map */

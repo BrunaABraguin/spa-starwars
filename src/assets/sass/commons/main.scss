@@ -49,3 +49,31 @@ h4 {
   width: 80%;
   margin: 0 auto;
 }
+
+.error-default {
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 100vh;
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  p {
+    text-transform: uppercase;
+  }
+
+  img {
+    height: 190px;
+    width: auto;
+    transition: 0.3s;
+
+    &:hover {
+      transform: scale(1.2);
+    }
+  }
+}

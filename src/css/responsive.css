@@ -5,6 +5,9 @@
   .section__block--two {
     flex-direction: column;
   }
+  .section__block--two img {
+    width: 80%;
+  }
   .text-content {
     margin: 3rem 0;
   }

@@ -5,6 +5,10 @@
 
   .section__block--two {
     flex-direction: column;
+
+    img {
+        width: 80%;
+    }
   }
 
   .text-content {
