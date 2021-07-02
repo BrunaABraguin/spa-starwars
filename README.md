@@ -19,3 +19,6 @@ Para instalar o node [clique aqui](https://nodejs.org/en/)
 ## Template Figma
 
 [SPA - Boas práticas](https://www.figma.com/file/De1yoDgoNqMKY0AYX5ZncM/Boas-pr%C3%A1ticas?node-id=0%3A1)
+
+##Veja o projeto online
+[CLIQUE AQUI](https://spa-starwars.vercel.app/)
