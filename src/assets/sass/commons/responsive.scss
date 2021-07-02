@@ -1,0 +1,17 @@
+@media (max-width: 769px) {
+  h1 {
+    font-size: 1rem;
+  }
+
+  .section__block--two {
+    flex-direction: column;
+  }
+
+  .text-content {
+    margin: 3rem 0;
+  }
+
+  .footer-container {
+    margin-top: 3rem;
+  }
+}

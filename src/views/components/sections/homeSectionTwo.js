@@ -9,7 +9,7 @@ let HomeSectionTwo = `
     <section class="section section__background--two" style="background-image: url('${BackgroundTwo}')" id='section-two'>
         <div class='container section__block--two'>
             <img src='${Vader}' alt='Dart Vader'>
-            <div>
+            <div class='text-content'>
                 <p>${TextContent}</p>
             </div>
         </div>    

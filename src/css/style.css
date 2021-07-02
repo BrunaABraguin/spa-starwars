@@ -9,6 +9,11 @@ body {
   color: white;
 }
 
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
 h1,
 h2,
 h3,
@@ -73,7 +78,7 @@ h4 {
 }
 
 .section__block--one h1 {
-  margin-bottom: 0.625rem;
+  margin-bottom: 2rem;
 }
 
 .section__block--two {
@@ -81,5 +86,20 @@ h4 {
   text-align: right;
   display: flex;
   align-items: center;
+}
+
+@media (max-width: 769px) {
+  h1 {
+    font-size: 1rem;
+  }
+  .section__block--two {
+    flex-direction: column;
+  }
+  .text-content {
+    margin: 3rem 0;
+  }
+  .footer-container {
+    margin-top: 3rem;
+  }
 }
 /*# sourceMappingURL=style.css.map */
