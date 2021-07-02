@@ -1,8 +1,5 @@
-# Gama Academy :)
-## Template Node FullJS
-
-Para iniciar o projeto:
-`git clone https://github.com/mrdouglasmorais/template-node-fulljs`
+# SPA Star Wars
+## Bruna de Andrade Braguin
 
 Para instalar as dependências:
 `npm i`
@@ -14,4 +11,11 @@ Para iniciar em modo de desenvolvimento:
 
 Para instalar o node [clique aqui](https://nodejs.org/en/)
 
-## Professor Douglas Morais
+## Aplicação dos conceitos e padrões
+
+[BEM](http://getbem.com/naming/)
+[Atomic Design Methodology](https://atomicdesign.bradfrost.com/chapter-2/)
+
+## Template Figma
+
+[SPA - Boas práticas](https://www.figma.com/file/De1yoDgoNqMKY0AYX5ZncM/Boas-pr%C3%A1ticas?node-id=0%3A1)
